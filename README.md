@@ -11,13 +11,13 @@ Spider-Man: Across the Spiderverse (2023) is an animated film that uses various 
 ## Part 2: Coding Technique Exploration
 
 ![An image of the code refer 1](Assets/PerlinNoise.png)
-_Fig 2: Live sketch. perlin noise_
+_Fig 2: Reference 1_
 
 Link to refernce 1: https://genekogan.com/code/p5js-perlin-noise/
 
 
 ![An image of the code refer 2](Assets/Random.png)
-_Fig 3: Driving position and colour_
+_Fig 3: Reference 2_
 
 Link to reference 2: https://editor.p5js.org/codingtrain/sketches/vDcIAbfg7
 
